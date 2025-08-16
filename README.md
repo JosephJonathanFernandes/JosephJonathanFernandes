@@ -3,7 +3,7 @@
 
 💻 **Software Developer | Open-Source Enthusiast | Tech Explorer**  
 
-I love building impactful software, exploring system-level programming, and contributing to projects that solve real-world problems. Currently focusing on **C, C++, Python, Embedded Systems, and Full-Stack Development**.   
+I love building impactful software, exploring system-level programming, and contributing to projects that solve real-world problems. Currently focusing on **C, C++, Python and Full-Stack Development**.   
 I like building projects that are both **practical and innovative**. 
 ---
 
