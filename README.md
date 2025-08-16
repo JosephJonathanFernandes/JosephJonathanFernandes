@@ -27,8 +27,9 @@ I like building projects that are both **practical and innovative**.
 ---
 
 ## 📫 Connect
-- [GitHub](https://github.com/JosephJonathanFernandes)  
-- [LinkedIn](www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a)
+- [GitHub](https://github.com/JosephJonathanFernandes)
+
+## Stats
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=JosephJonathanFernandes&theme=default)
 
