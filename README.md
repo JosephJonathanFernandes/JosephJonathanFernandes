@@ -7,7 +7,7 @@ I like building projects that are both **practical and innovative**.
 ---
 
 ## 🚀 About Me
-- 💡 Interested in **Systems Programming, Embedded Software, Networking and AI/ML applications**
+- 💡 Passionate about **Systems Programming, Embedded Software, Networking, AI/ML, and Cybersecurity**
 - 💬 Ask me about **C,CPP, Python, Java, OS concepts, DBMS, DSA, OOPS and Software Development**
 - 📫 Reach me at: josephfernandes273@gmail.com 
 - ⚡ Fun fact: I enjoy building both **low-level C or CPP projects** and **modern web apps using Flask or Streamlit** 🎯  
@@ -23,10 +23,11 @@ I like building projects that are both **practical and innovative**.
 ---
 🏆 Key Highlights
 
-- Participated and won hackathons, competitive coding, debate and quiz competitions.
-- Strong foundation in   DBMS, C , CPP, Python and its libraries, Operating Systems, Networking, and Embedded Systems.
-- Love working on socially impactful type projects.
-- Exploring Data Science & Analytics, AI/ML and Cybersecurity domains.
+- 🏅 Hackathons & Competitions: Participated and won coding, debate, quiz, and hackathon events
+
+- 💻 Strong Foundation: DBMS, C/C++, Python & libraries, OS, Networking, Embedded Systems
+
+- 🌱 Interests: Socially impactful projects, AI/ML, Data Science & Analytics, Cybersecurity
 
 ## 📊 GitHub Stats
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=default)  
