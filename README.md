@@ -15,12 +15,18 @@ I like building projects that are both **practical and innovative**.
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, Python, Java, JavaScript, SQL, Dart, R, Bash, PHP 
-- **Frameworks/Tools:** Flask, Java Swing, Streamlit, JavaFX, HTML5 , CSS, Tailwind-CSS, Bootstrap, JDBC
-- **Databases:** MySQL
-- **Other Skills:** Embedded C, Linux, Git/GitHub, VectorCast tool, MISRA warnings handling, Klockwork, Problem solving, Prompt Engineering
+- **Languages:** C, C++, Python, Java, JavaScript, SQL, Dart, R, Bash, PHP , MeTTa
+- **Frameworks/Tools:** Flask, Java Swing, Streamlit, JavaFX, HTML5 , CSS, Tailwind-CSS, Bootstrap, JDBC, Django
+- **Databases:** MySQL, SQLite
+- **Other Skills:** Embedded C, Linux, Git/GitHub, VectorCast tool, MISRA and Static and CERT warnings handling, Klockwork Server usage for Triaging, Problem solving, Prompt Engineering
 
 ---
+🏆 Key Highlights
+
+- Participated and won hackathons, competitive coding, debate and quiz competitions.
+- Strong foundation in   DBMS, C , CPP, Python and its libraries, Operating Systems, Networking, and Embedded Systems.
+- Love working on socially impactful type projects.
+- Exploring Data Science & Analytics, AI/ML and Cybersecurity domains.
 
 ## 📊 GitHub Stats
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=default)  
