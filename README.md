@@ -8,7 +8,7 @@ I like building projects that are both **practical and innovative**.
 
 ## 🚀 About Me
 - 💡 Interested in **Systems Programming, Embedded Software, Networking and AI/ML applications**
-- 💬 Ask me about **C,CPP, Python, Java, OS concepts, and Software Development**
+- 💬 Ask me about **C,CPP, Python, Java, OS concepts, DBMS, DSA, OOPS and Software Development**
 - 📫 Reach me at: josephfernandes273@gmail.com 
 - ⚡ Fun fact: I enjoy building both **low-level C or CPP projects** and **modern web apps using Flask or Streamlit** 🎯  
 
