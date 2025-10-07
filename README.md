@@ -22,7 +22,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Joseph Jonathan Fernandes"
         self.role = "Software Developer"
-        self.location = "Margao, Goa, IN"
+        self.location = "Pimpri, Maharashtra, IN"
         self.interests = [
             "Systems Programming",
             "Full-Stack Development", 
@@ -143,6 +143,63 @@ This internship provided invaluable exposure to **real-world automotive software
 
 ---
 
+## 🤖 AI-Powered Development
+
+<div align="center">
+
+### Leveraging Modern AI Tools for Enhanced Productivity
+
+I believe in **augmenting development workflows** with cutting-edge AI tools while maintaining deep technical understanding and code ownership.
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 **Prompt Engineering Expertise**
+- **Advanced prompt crafting** for complex technical tasks
+- **Context optimization** for better AI responses
+- **Multi-step reasoning** with AI assistants
+- **Code generation & refactoring** with precise prompts
+- **Documentation automation** using AI tools
+- **Debugging assistance** through intelligent queries
+
+</td>
+<td width="50%">
+
+#### 🛠️ **AI Tools Proficiency**
+- **ChatGPT & Claude** - Problem-solving, code review, architecture design
+- **GitHub Copilot** - Real-time code suggestions and completions
+- **AI Code Assistants** - Intelligent autocomplete and refactoring
+- **AI-powered debugging** - Error analysis and resolution
+- **Documentation tools** - Automated README and doc generation
+- **Learning acceleration** - Quick concept understanding and exploration
+
+</td>
+</tr>
+</table>
+
+#### 💡 **How I Use AI in Development:**
+
+```python
+AI_Workflow = {
+    "Code_Generation": "Use AI for boilerplate, then customize for specific needs",
+    "Code_Review": "AI-assisted analysis for potential bugs and improvements",
+    "Learning": "Quick exploration of new concepts and best practices",
+    "Documentation": "Generate comprehensive docs, then refine for clarity",
+    "Debugging": "AI helps identify patterns and suggest solutions",
+    "Architecture": "Brainstorm designs and validate approaches with AI",
+    "Productivity": "Automate repetitive tasks while maintaining code quality"
+}
+
+# Philosophy: AI as a powerful tool, human as the architect
+```
+
+**Key Principle:** AI tools **amplify** my capabilities, but I always understand the code I write and maintain full control over the implementation.
+
+---
+
 ## 🌟 Featured Projects
 
 > **Note:** Browse my pinned repositories below for detailed project implementations!
@@ -172,6 +229,8 @@ This internship provided invaluable exposure to **real-world automotive software
 - Data analysis and visualization tools
 - Predictive analytics applications
 - Natural language processing projects
+- AI-powered automation tools
+- Prompt engineering for LLM applications
 ```
 
 ### 🛡️ **Security & Networking**
@@ -196,6 +255,7 @@ This internship provided invaluable exposure to **real-world automotive software
 - Experience with **enterprise-grade** static analysis tools
 - Proficient in **MISRA/CERT** coding standards
 - Deep understanding of **memory management** and **optimization**
+- Expert in **prompt engineering** and **AI-assisted development**
 
 </td>
 <td width="50%">
@@ -205,6 +265,7 @@ This internship provided invaluable exposure to **real-world automotive software
 - From **bare-metal embedded systems** to **modern web apps**
 - Strong in both **algorithmic thinking** and **system design**
 - Blend of **theoretical knowledge** and **practical implementation**
+- Leverages **AI tools** to enhance productivity and code quality
 
 </td>
 </tr>
@@ -224,6 +285,8 @@ Technical Expertise:
   - 💻 Solid foundation: DBMS, OS, Networking, Embedded Systems
   - 🔧 Production tools: VectorCast, Klockwork Server for code quality
   - 📚 Comprehensive knowledge: DSA, OOP, System Design
+  - 🤖 AI-Powered Development: Prompt Engineering, ChatGPT, Claude, GitHub Copilot
+  - ⚡ Modern Workflow: AI-assisted coding, automated documentation, intelligent debugging
 
 Impact Focus:
   - 🌱 Building socially impactful technology solutions
@@ -274,6 +337,8 @@ Impact Focus:
 | Embedded Systems | REST APIs | Data Analytics | Penetration Testing |
 | OS Development | Microservices | Deep Learning | Cryptography |
 | Performance Optimization | Database Design | Computer Vision | Network Security |
+| | | **Prompt Engineering** | |
+| | | **AI Tool Integration** | |
 
 </div>
 
