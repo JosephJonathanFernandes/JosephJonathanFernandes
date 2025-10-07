@@ -307,6 +307,8 @@ Impact Focus:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephJonathanFernandes&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
+[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/JJF)
+
 </div>
 
 ---
