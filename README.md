@@ -22,7 +22,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Joseph Jonathan Fernandes"
         self.role = "Software Developer"
-        self.location = "Pimpri, Maharashtra, IN"
+        self.location = "Margao, Goa, IN"
         self.interests = [
             "Systems Programming",
             "Full-Stack Development", 
