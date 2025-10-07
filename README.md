@@ -346,6 +346,19 @@ Impact Focus:
 
 ---
 
+## 🖋️ Writing & Interests
+
+- ✍️ I contribute articles to my college magazine, writing about technology, innovation, and campus experiences.  
+- 💻 Passionate about software development, open-source projects, and exploring new technologies.  
+- ⚙️ Deep interest in embedded systems, automotive technologies (CAN, AUTOSAR, UDS), and system-level programming in C/C++.  
+- 🌐 Enjoy developing Python projects and web development projects.
+- 🧠 Love participating in coding contests, technical quizzes, and hackathons that challenge logic and creativity.  
+- ⚽ Active in college sports — enjoy cricket, chess , badminton, and table tennis as part of my regular routine.  
+- 🎯 Enthusiastic about general knowledge quizzes, current affairs, and tech trivia.  
+- 🎵 Enjoy music and creative writing during free time — a perfect balance of fun and focus.
+
+---
+
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
