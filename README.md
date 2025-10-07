@@ -96,6 +96,50 @@ me.say_hi()
 </div>
 
 ---
+💼 Professional Experience
+🚗 Software Intern | Visteon Corporation
+📅 July 2025 – September 2025 | Automotive Embedded Systems
+Worked on cutting-edge automotive embedded software development, focusing on AUTOSAR architecture, CAN communication protocols, and UDS diagnostics for Electronic Control Units (ECUs).
+<details>
+<summary><b>🔍 Click to expand internship details</b></summary>
+🎯 Core Responsibilities & Learning
+AUTOSAR & ECU Development
+
+Deep-dived into AUTOSAR architecture including BSW (Basic Software) layers, RTE (Runtime Environment), and application components
+Understood ECU software configuration, debugging workflows, and real-time signal interpretation
+Gained hands-on experience with automotive-grade development tools and environments
+
+CAN Communication & Diagnostics
+
+Implemented and analyzed CAN communication flows, message IDs, data frames, and error handling mechanisms
+Studied UDS (Unified Diagnostic Services) for vehicle diagnostics, fault detection, and service routines
+Worked with diagnostic request-response protocols and on-board diagnostic systems
+
+Code Quality & Standards
+
+Applied MISRA-C and CERT C coding standards to ensure safety-critical embedded C code
+Practiced rigorous code reviews, static analysis, and compliance verification
+Followed structured development workflows with comprehensive documentation
+
+Key Technologies:
+
+Languages: Embedded C, C++
+Standards: AUTOSAR, MISRA-C, CERT C, UDS (ISO 14229)
+Protocols: CAN, CAN-FD, Diagnostic protocols
+Tools: Automotive debugging tools, ECU configuration software, static analyzers
+
+💡 Key Takeaways
+This internship provided invaluable exposure to real-world automotive software engineering, strengthening my foundation in:
+
+Safety-critical embedded systems development
+Automotive communication protocols and diagnostics
+Industry-standard coding practices and quality assurance
+Collaborative software development in a structured engineering environment
+
+</details>
+🏆 Impact: Gained practical experience in automotive embedded systems that bridges theoretical knowledge with industry-standard practices in safety-critical software development.
+
+---
 
 ## 🌟 Featured Projects
 
