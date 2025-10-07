@@ -8,7 +8,8 @@
 From embedded firmware to modern web apps, I craft software at every level of the stack
 
 [![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
+)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosephJonathanFernandes)
 
 </div>
@@ -366,7 +367,8 @@ Impact Focus:
 I'm always excited to discuss **innovative ideas**, **collaborate on projects**, or explore **career opportunities**!
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
+)
 
 ### 📫 Best Ways to Reach Me:
 - 💼 **Professional Inquiries:** LinkedIn
