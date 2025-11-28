@@ -10,19 +10,7 @@
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
 [![Location](https://img.shields.io/badge/Location-Margao%2C%20Goa%2C%20India-green?style=flat&logo=google-maps)](https://maps.google.com)
 
-[![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/JosephJonathanFernandes)
-[![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
-[![Location](https://img.shields.io/badge/Location-Margao%2C%20Goa%2C%20India-green?style=flat&logo=google-maps)](https://maps.google.com)
 
-## 📜 Certifications
-
-**NPTEL:** Python, Java, C++, DSA, Graph Algorithms, Networking, Cloud Computing, Data Analytics, HCI, and more
-
-**Platform Badges:** HackerRank (C, Python, SQL, Java) • CodeChef (1025 rating) • Zscaler (Networking, Cybersecurity)
-
----
 
 ## 👋 About Me
 
@@ -249,13 +237,6 @@ Comprehensive image processing application with educational focus:
 **Platform Badges:** HackerRank (C, Python, SQL, Java) • CodeChef (1025 rating) • Zscaler (Networking, Cybersecurity)
 
 ---
-
-## 🎯 What I'm Currently Focused On
-
-- 📚 **Learning:** Data Structures & Algorithms, Problem Solving Patterns, Cybersecurity Fundamentals
-- 🔨 **Building:** Full-stack applications, systems programming projects, and AI/ML solutions
-- 🎯 **Exploring:** System design, secure coding practices, and modern development workflows
-- 🤝 **Contributing:** Open-source projects and collaborative development initiatives
 
 ---
 
