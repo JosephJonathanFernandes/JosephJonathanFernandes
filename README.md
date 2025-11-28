@@ -1,4 +1,5 @@
 <div align="center">
+
 # Joseph Jonathan Fernandes
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer;Systems+Programmer;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
@@ -11,17 +12,15 @@
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
 [![Location](https://img.shields.io/badge/Location-Margao%2C%20Goa%2C%20India-green?style=flat&logo=google-maps)](https://maps.google.com)
 
+</div>
 
+
+
+---
 
 ## 👋 About Me
 
 I'm passionate about building software that solves real problems. Currently exploring systems programming, web development, and AI/ML applications. I love learning new technologies and working on projects that make a difference.
-
-**🎯 Current Focus:**
-- Learning Data Structures & Algorithms
-- Building practical applications with Python and C/C++
-- Exploring AI/ML and its real-world applications
-- Understanding cybersecurity fundamentals
 
 **Quick Highlights:**
 - ✅ **Industry Experience:** Automotive embedded systems intern at Visteon Corporation
@@ -238,6 +237,13 @@ Comprehensive image processing application with educational focus:
 **Platform Badges:** HackerRank (C, Python, SQL, Java) • CodeChef (1025 rating) • Zscaler (Networking, Cybersecurity)
 
 ---
+
+## 🎯 What I'm Currently Focused On
+
+- 📚 **Learning:** Data Structures & Algorithms, Problem Solving Patterns, Cybersecurity Fundamentals
+- 🔨 **Building:** Full-stack applications, systems programming projects, and AI/ML solutions
+- 🎯 **Exploring:** Advanced system design, secure coding practices, and modern development workflows
+- 🤝 **Contributing:** Open-source projects and collaborative development initiatives
 
 ---
 
