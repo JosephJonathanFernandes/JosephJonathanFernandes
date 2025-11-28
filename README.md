@@ -60,13 +60,13 @@ This was a great learning experience that introduced me to professional software
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Also familiar with:** PHP, Dart, MeTTa (exploring), x86 Assembly, Shell Scripting, LaTeX
+**Also familiar with:** PHP, Dart, MeTTa, x86 Assembly, Shell Scripting
 
 ### **Frameworks & Technologies**
-- **Web Development:** Flask, Streamlit, HTML/CSS, TailwindCSS, Bootstrap, React (learning)
-- **Mobile Development:** Flutter, Firebase
+- **Web Development:** Flask, Streamlit, HTML/CSS, TailwindCSS, Bootstrap, React
+- **Mobile Development:** Dart
 - **Databases:** MySQL, SQLite, JDBC
-- **Tools & Platforms:** Linux, Git, GitHub, VS Code, Beyond Compare, Docker basics, LaTeX
+- **Tools & Platforms:** Linux, Git, GitHub, VS Code, Beyond Compare, Docker basics, LaTeX, Excel
 - **Code Quality:** VectorCast, Klockwork, Static Analysis Tools
 - **Standards:** MISRA-C, CERT C, AUTOSAR
 
@@ -126,7 +126,7 @@ AI-based waste classification system with social impact:
 - Gamifies recycling with eco-points and badges
 - Aligns with UN SDGs (11, 12, 13)
 
-**Tech:** Python, Flask, TensorFlow/PyTorch, HTML/CSS
+**Tech:** Python, Flask, PyTorch, HTML/CSS
 
 **Team Role:** Integration, logic implementation, version control, and ideation
 
