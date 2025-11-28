@@ -1,6 +1,8 @@
 # Joseph Jonathan Fernandes
 
-**Software Developer** | Learning, Building, and Exploring
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer;Systems+Programmer;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+**Learning, Building, and Exploring**
 
 [![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
@@ -8,7 +10,19 @@
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
 [![Location](https://img.shields.io/badge/Location-Margao%2C%20Goa%2C%20India-green?style=flat&logo=google-maps)](https://maps.google.com)
 
+[![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/JosephJonathanFernandes)
+[![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
+[![Location](https://img.shields.io/badge/Location-Margao%2C%20Goa%2C%20India-green?style=flat&logo=google-maps)](https://maps.google.com)
 
+## 📜 Certifications
+
+**NPTEL:** Python, Java, C++, DSA, Graph Algorithms, Networking, Cloud Computing, Data Analytics, HCI, and more
+
+**Platform Badges:** HackerRank (C, Python, SQL, Java) • CodeChef (1025 rating) • Zscaler (Networking, Cybersecurity)
+
+---
 
 ## 👋 About Me
 
@@ -60,13 +74,13 @@ This was a great learning experience that introduced me to professional software
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Also familiar with:** PHP, Dart, MeTTa, x86 Assembly, Shell Scripting
+**Also familiar with:** PHP, Dart, MeTTa, x86 Assembly, Shell Scripting, LaTeX
 
 ### **Frameworks & Technologies**
-- **Web Development:** Flask, Streamlit, HTML/CSS, TailwindCSS, Bootstrap, React
-- **Mobile Development:** Dart
+- **Web Development:** Flask, Streamlit, HTML/CSS, TailwindCSS, Bootstrap, React (learning)
+- **Mobile Development:** Flutter, Firebase
 - **Databases:** MySQL, SQLite, JDBC
-- **Tools & Platforms:** Linux, Git, GitHub, VS Code, Beyond Compare, Docker basics, LaTeX, Excel
+- **Tools & Platforms:** Linux, Git, GitHub, VS Code, Beyond Compare, Docker basics, LaTeX
 - **Code Quality:** VectorCast, Klockwork, Static Analysis Tools
 - **Standards:** MISRA-C, CERT C, AUTOSAR
 
@@ -228,11 +242,19 @@ Comprehensive image processing application with educational focus:
 
 ---
 
+## 📜 Certifications
+
+**NPTEL:** Python, Java, C++, DSA, Graph Algorithms, Networking, Cloud Computing, Data Analytics, HCI, and more
+
+**Platform Badges:** HackerRank (C, Python, SQL, Java) • CodeChef (1025 rating) • Zscaler (Networking, Cybersecurity)
+
+---
+
 ## 🎯 What I'm Currently Focused On
 
 - 📚 **Learning:** Data Structures & Algorithms, Problem Solving Patterns, Cybersecurity Fundamentals
 - 🔨 **Building:** Full-stack applications, systems programming projects, and AI/ML solutions
-- 🎯 **Exploring:** Advanced system design, secure coding practices, and modern development workflows
+- 🎯 **Exploring:** System design, secure coding practices, and modern development workflows
 - 🤝 **Contributing:** Open-source projects and collaborative development initiatives
 
 ---
