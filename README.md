@@ -1,3 +1,4 @@
+<div align="center">
 # Joseph Jonathan Fernandes
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer;Systems+Programmer;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
