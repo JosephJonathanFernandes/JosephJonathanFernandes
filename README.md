@@ -242,7 +242,7 @@ Comprehensive image processing application with educational focus:
 
 - 📚 **Learning:** Data Structures & Algorithms, Problem Solving Patterns, Cybersecurity Fundamentals
 - 🔨 **Building:** Full-stack applications, systems programming projects, and AI/ML solutions
-- 🎯 **Exploring:** Advanced system design, secure coding practices, and modern development workflows
+- 🎯 **Exploring:** System design, secure coding practices, and modern development workflows
 - 🤝 **Contributing:** Open-source projects and collaborative development initiatives
 
 ---
