@@ -45,13 +45,13 @@ Software developer with hands-on experience in automotive embedded systems and f
 
 ## 🛠️ Tech Stack
 
-**Languages:** C/C++, Python, Java, JavaScript, SQL, Bash, R, PHP, Dart
+**Languages:** C/C++, Python, Java, JavaScript, SQL, Bash, R, PHP, Dart, MeTTa
 
 **Web:** Flask, Streamlit, React, HTML/CSS, TailwindCSS, Bootstrap
 
 **Databases:** MySQL, SQLite, JDBC, Firebase
 
-**Tools:** Linux, Git/GitHub, VS Code, Docker, LaTeX, VectorCast, Klockwork
+**Tools:** Linux, Git/GitHub, VS Code, Docker, LaTeX, VectorCast, Klockwork 
 
 **Core:** Systems Programming, Embedded C/C++, DSA, Full-Stack Development, REST APIs, Unit Testing, AI-Assisted Development
 
@@ -133,6 +133,7 @@ Automated task scheduling with dependency management using graph-based represent
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JosephJonathanFernandes&color=blueviolet&style=flat-square&label=Profile+Views)
+[![wakatime](https://wakatime.com/badge/user/baa4d2fb-dd8a-4cb7-aeb2-bb26303cd60b.svg)](https://wakatime.com/@JJF)
 
 </div>
 
@@ -140,12 +141,12 @@ Automated task scheduling with dependency management using graph-based represent
 
 ## 🏆 Achievements
 
-- 🥇 Multiple 1st place wins in debates, quizzes, and coding competitions
+- 🥇 Multiple 1st place wins in debates, quizzes,hackathons and coding competitions
 - 🎯 **HackIndia 2025** - Top 7 team (80+ teams in Goa)
 - 💼 **Visteon Corporation** - Automotive embedded systems intern
 - 📊 **CodeChef:** 1025 rating | **HackerRank:** C, Python, SQL, Java badges
-- 📜 **NPTEL Certifications:** Python, Java, C++, DSA, Networking, Cloud Computing, Data Analytics
-- 🎤 Co-organized **Technix** - State-level technical quiz (2023 & 2025)
+- 📜 **NPTEL Certifications:** Python, Java, C++, DSA, Networking, Cloud Computing, Data Analytics and many more
+- 🎤 Co-organized **Technix Quiz** - State-level technical quiz (2023 & 2025)
 
 ---
 
