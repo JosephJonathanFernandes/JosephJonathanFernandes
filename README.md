@@ -3,9 +3,12 @@
   
 ## Joseph Jonathan Fernandes
 
-**Software Developer | Backend & Full-Stack Developer| Systems Programmer | AI/ML Enthusiast**
+**Software Developer | Backend & Full-Stack Developer | Systems Programmer | AI/ML Enthusiast**
 
-Skills: C, C++, Python, Embedded C, AUTOSAR, CAN, UDS, Linux, MISRA-C, CERT C, VectorCast, Klockwork, Flask, React, SQL, Docker
+Skills: C, C++, Embedded C, Python, AUTOSAR, CAN, UDS, Linux  
+Standards & Tools: MISRA-C, CERT C, VectorCast, Klockwork  
+Web & Backend: Flask, React, SQL, Docker
+
 
 Experience: Automotive Embedded Systems Intern – **Visteon Corporation**
 
@@ -22,9 +25,10 @@ Projects: Embedded Systems, AI/ML Applications, Full-Stack Web Development, Netw
 
 ---
 
-## 👨‍💻 About Me
+##   About Me
 
 Software developer with hands-on experience in automotive embedded systems and full-stack development. Passionate about building reliable, production-quality software from embedded C to modern web applications.
+Focused on writing clean, testable, standards-compliant software with real-world deployment experience in automotive and web systems.
 
 **Quick Highlights:**
 - ✅ Automotive embedded systems intern at **Visteon Corporation**
@@ -35,7 +39,7 @@ Software developer with hands-on experience in automotive embedded systems and f
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Software Intern | **Visteon Corporation**
 **July 2025 – September 2025** | Automotive Embedded Systems
@@ -50,7 +54,7 @@ Software developer with hands-on experience in automotive embedded systems and f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** C/C++, Python, Java, JavaScript, SQL, Bash, R, PHP, Dart, MeTTa
 
@@ -64,7 +68,7 @@ Software developer with hands-on experience in automotive embedded systems and f
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌌 **Exoscope - NASA Space Apps Hackathon**
 *AI-powered exoplanet detection platform*
@@ -132,12 +136,12 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-</br>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
