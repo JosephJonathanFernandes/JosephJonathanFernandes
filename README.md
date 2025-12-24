@@ -159,7 +159,7 @@ Automated task scheduling with dependency management using graph-based represent
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JosephJonathanFernandes/JosephJonathanFernandes/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://raw.githubusercontent.com/JosephJonathanFernandes/JosephJonathanFernandes/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
