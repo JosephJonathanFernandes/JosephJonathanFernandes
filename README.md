@@ -25,9 +25,10 @@ Projects: Embedded Systems, AI/ML Applications, Full-Stack Web Development, Netw
 
 ---
 
-##   About Me
+## About Me
 
 Software developer with hands-on experience in automotive embedded systems and full-stack development. Passionate about building reliable, production-quality software from embedded C to modern web applications.
+Strong foundation in systems programming and automotive standards, with the ability to ship production-ready backend and full-stack applications.
 Focused on writing clean, testable, standards-compliant software with real-world deployment experience in automotive and web systems.
 
 **Quick Highlights:**
@@ -39,12 +40,13 @@ Focused on writing clean, testable, standards-compliant software with real-world
 
 ---
 
-##  Experience
+## Experience
 
 ### Software Intern | **Visteon Corporation**
 **July 2025 – September 2025** | Automotive Embedded Systems
 
 - Worked with **AUTOSAR architecture** for ECU systems in automotive embedded software
+- Tested AUTOSAR-based ECU modules for automotive embedded systems
 - Explored **CAN/CAN-TP/CAN-FD protocols** and **UDS diagnostics**
 - Ensured code compliance with **MISRA-C**, **CERT C**, and **Static C** standards
 - Unit tested AUTOSAR modules using **VectorCast** on live projects
@@ -54,7 +56,7 @@ Focused on writing clean, testable, standards-compliant software with real-world
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages:** C/C++, Python, Java, JavaScript, SQL, Bash, R, PHP, Dart, MeTTa
 
@@ -68,7 +70,7 @@ Focused on writing clean, testable, standards-compliant software with real-world
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### 🌌 **Exoscope - NASA Space Apps Hackathon**
 *AI-powered exoplanet detection platform*
@@ -175,18 +177,18 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 Multiple 1st place wins in debates, quizzes,hackathons and coding competitions
+- 🥇 Multiple 1st place wins in debates , quizzes , hackathons and coding competitions
 - 🎯 **HackIndia 2025** - Top 7 team (80+ teams in Goa)
 - 💼 **Visteon Corporation** - Automotive embedded systems intern
 - 📊 **CodeChef:** 1025 rating | **HackerRank:** C, Python, SQL, Java badges
-- 📜 **NPTEL Certifications:** Python, Java, C++, DSA, Networking, Cloud Computing, Data Analytics and many more
+- 📜 **NPTEL Certifications:** Python, Java, C++, DSA , Networking , Cloud Computing , Data Analytics and many more
 - 🎤 Co-organized **Technix Quiz** - State-level technical quiz (2023 & 2025)
 
 ---
 
-## 💡 Why Work With Me?
+## Why Work With Me?
 
 **Industry-Ready:** Real-world embedded systems internship with production-level code quality (MISRA-C, CERT C, VectorCast)
 
