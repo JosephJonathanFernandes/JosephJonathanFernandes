@@ -129,14 +129,17 @@ Automated task scheduling with dependency management using graph-based represent
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JosephJonathanFernandes&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=JosephJonathanFernandes&color=blueviolet&style=flat-square&label=Profile+Views"/>
 
-[![wakatime](https://wakatime.com/badge/user/baa4d2fb-dd8a-4cb7-aeb2-bb26303cd60b.svg)](https://wakatime.com/@JJF)
+<a href="https://wakatime.com/@JJF">
+  <img src="https://wakatime.com/badge/user/baa4d2fb-dd8a-4cb7-aeb2-bb26303cd60b.svg"/>
+</a>
 
 </div>
 
