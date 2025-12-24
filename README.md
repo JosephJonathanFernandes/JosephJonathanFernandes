@@ -1,8 +1,15 @@
+
 <div align="center">
+  
+## Joseph Jonathan Fernandes
 
-# Joseph Jonathan Fernandes
+**Software Developer | Backend & Full-Stack Developer| Systems Programmer | AI/ML Enthusiast**
 
-**Software Developer | Systems Programmer | AI/ML Enthusiast**
+Skills: C, C++, Python, Embedded C, AUTOSAR, CAN, UDS, Linux, MISRA-C, CERT C, VectorCast, Klockwork, Flask, React, SQL, Docker
+
+Experience: Automotive Embedded Systems Intern – **Visteon Corporation**
+
+Projects: Embedded Systems, AI/ML Applications, Full-Stack Web Development, Network Security Tools
 
 [![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
@@ -129,11 +136,29 @@ Automated task scheduling with dependency management using graph-based represent
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<br/>
+</div>
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JosephJonathanFernandes&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JosephJonathanFernandes/JosephJonathanFernandes/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=JosephJonathanFernandes&color=blueviolet&style=flat-square&label=Profile+Views"/>
 
@@ -142,6 +167,7 @@ Automated task scheduling with dependency management using graph-based represent
 </a>
 
 </div>
+
 
 ---
 
