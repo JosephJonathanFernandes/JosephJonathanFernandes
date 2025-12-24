@@ -49,7 +49,7 @@ Focused on writing clean, testable, standards-compliant software with real-world
 - Tested AUTOSAR-based ECU modules for automotive embedded systems
 - Explored **CAN/CAN-TP/CAN-FD protocols** and **UDS diagnostics**
 - Ensured code compliance with **MISRA-C**, **CERT C**, and **Static C** standards
-- Unit tested AUTOSAR modules using **VectorCast** on live projects
+- Unit tested AUTOSAR modules using VectorCast on live projects, achieving high statement and branch coverage
 - Used **VS Code**, **Beyond Compare**, and **Klockwork** for development
 
 **Tech:** Embedded C/C++, AUTOSAR, CAN Protocols, UDS, MISRA-C, CERT C, VectorCast, Klockwork
