@@ -79,22 +79,10 @@ Software developer with hands-on experience in automotive embedded systems (Vist
 
 ---
 
-## About Me
 
-Software developer with hands-on experience in automotive embedded systems and full-stack development. Passionate about building reliable, production-quality software from embedded C to modern web applications.
-Strong foundation in systems programming and automotive standards, with the ability to ship production-ready backend and full-stack applications.
-Focused on writing clean, testable, standards-compliant software with real-world deployment experience in automotive and web systems.
 
-**Quick Highlights:**
-- ✅ Automotive embedded systems intern at **Visteon Corporation**
-- ✅ Strong in C/C++, Python, embedded systems, and full-stack web development
-- ✅ Experience with **MISRA-C/CERT C** standards, **VectorCast**, **Klockwork**
-- ✅ Multiple hackathon wins and competitive programming achievements
-- ✅ Open to full-time opportunities in software development
-
----
-
-## 💼 Experience
+<details>
+<summary>💼 <b>Experience</b> (click to expand)</summary>
 
 ### Software Intern | <b>Visteon Corporation</b>
 <i>July 2025 – September 2025 | Automotive Embedded Systems</i>
@@ -141,7 +129,8 @@ Focused on writing clean, testable, standards-compliant software with real-world
 - Python scripting for automation and analysis
 - Technical documentation and team support
 
----
+</details>
+
 
 <details>
 <summary>🛠️ <b>Tech Stack</b> (click to expand)</summary>
