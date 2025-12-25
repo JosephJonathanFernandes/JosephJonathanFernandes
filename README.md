@@ -38,7 +38,7 @@
    - **CI/CD**: Monitored Jenkins reports, analyzed VectorCast/Klockwork static analysis
    - **Testing**: Unit testing with 100% branch coverage on AUTOSAR modules
    - **Code Optimization**: Identified and documented areas for code optimization in production ECU modules
-   - Tested 16 AUTOSAR modules using VectorCast and Klockwork
+   - Tested 7 AUTOSAR modules using VectorCast and Klockwork
    - MISRA-C and CERT C compliance enforcement
 
 **Key Strengths**:
