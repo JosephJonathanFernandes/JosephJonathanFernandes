@@ -235,6 +235,12 @@ Automated task scheduling with dependency management using graph-based represent
 [View Project →](https://github.com/JosephJonathanFernandes/HackIndia-Spark-3-2025-WizCoders)
 
 
+---
+
+## 🏅 Achievements
+
+---
+
 <details>
 <summary>📊 <b>Fun Stats & Activity</b> (click to expand)</summary>
 
@@ -255,11 +261,6 @@ Automated task scheduling with dependency management using graph-based represent
 </a>
 
 </div>
-</details>
-
----
-
-## 🏅 Achievements
 
 - 🥇 Multiple 1st place wins in debates, quizzes, hackathons, and coding competitions
 - 🎯 <b>HackIndia 2025</b> – Top 7 team (80+ teams in Goa)
