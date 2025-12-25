@@ -240,6 +240,15 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
+## 🤝 Why Work With Me?
+
+- <b>Industry-Ready:</b> Real-world embedded systems internship with production-level code quality (MISRA-C, CERT C, VectorCast)
+- <b>Full-Stack Versatility:</b> From embedded C to modern web frameworks with strong DSA foundation
+- <b>Modern Practices:</b> AI-assisted development, Git workflows, continuous learning mindset
+- <b>Proven Track Record:</b> Internship, hackathon wins, 9.778 CGPA
+
+---
+
 <details>
 <summary>📊 <b>Fun Stats & Activity</b> (click to expand)</summary>
 
@@ -266,14 +275,6 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
-## 🤝 Why Work With Me?
-
-- <b>Industry-Ready:</b> Real-world embedded systems internship with production-level code quality (MISRA-C, CERT C, VectorCast)
-- <b>Full-Stack Versatility:</b> From embedded C to modern web frameworks with strong DSA foundation
-- <b>Modern Practices:</b> AI-assisted development, Git workflows, continuous learning mindset
-- <b>Proven Track Record:</b> Internship, hackathon wins, 9.778 CGPA
-
----
 
 ## 📢 Open to Opportunities
 
