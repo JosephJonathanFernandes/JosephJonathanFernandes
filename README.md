@@ -240,6 +240,7 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
+<details>
 <summary>📊 <b>Fun Stats & Activity</b> (click to expand)</summary>
 
 <div align="center">
@@ -259,6 +260,8 @@ Automated task scheduling with dependency management using graph-based represent
 </a>
 
 </div>
+
+</details>
 
 
 ---
