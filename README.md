@@ -226,6 +226,9 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
+
+</details>
+
 ## 🏅 Achievements
 
 - 🥇 Multiple 1st place wins in debates, quizzes, hackathons, and coding competitions
@@ -237,7 +240,6 @@ Automated task scheduling with dependency management using graph-based represent
 
 ---
 
-<details>
 <summary>📊 <b>Fun Stats & Activity</b> (click to expand)</summary>
 
 <div align="center">
