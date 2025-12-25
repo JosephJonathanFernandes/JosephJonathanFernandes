@@ -228,6 +228,13 @@ Automated task scheduling with dependency management using graph-based represent
 
 ## 🏅 Achievements
 
+- 🥇 Multiple 1st place wins in debates, quizzes, hackathons, and coding competitions
+- 🎯 <b>HackIndia 2025</b> – Top 7 team (80+ teams in Goa)
+- 💼 <b>Visteon Corporation</b> – Automotive embedded systems intern
+- 📊 <b>CodeChef:</b> 1025 rating | <b>HackerRank:</b> C, Python, SQL, Java badges
+- 📜 <b>NPTEL Certifications:</b> Python, Java, C++, DSA, Networking, Cloud Computing, Data Analytics, and more
+- 🎤 Co-organized <b>Technix Quiz</b> – State-level technical quiz (2023 & 2025)
+
 ---
 
 <details>
@@ -251,12 +258,6 @@ Automated task scheduling with dependency management using graph-based represent
 
 </div>
 
-- 🥇 Multiple 1st place wins in debates, quizzes, hackathons, and coding competitions
-- 🎯 <b>HackIndia 2025</b> – Top 7 team (80+ teams in Goa)
-- 💼 <b>Visteon Corporation</b> – Automotive embedded systems intern
-- 📊 <b>CodeChef:</b> 1025 rating | <b>HackerRank:</b> C, Python, SQL, Java badges
-- 📜 <b>NPTEL Certifications:</b> Python, Java, C++, DSA, Networking, Cloud Computing, Data Analytics, and more
-- 🎤 Co-organized <b>Technix Quiz</b> – State-level technical quiz (2023 & 2025)
 
 ---
 
