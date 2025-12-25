@@ -62,7 +62,7 @@
 Software developer with hands-on experience in automotive embedded systems (Visteon, 2025), full-stack web apps, and AI/ML. I build reliable, production-quality software from embedded C to modern web platforms.
 
 **Quick highlights:**
-- 🏆 Visteon automotive embedded systems intern: tested 16 AUTOSAR modules, achieved 100% branch coverage, identified areas for code optimization
+- 🏆 Visteon automotive embedded systems intern: tested 7 AUTOSAR modules, achieved 100% branch coverage, identified areas for code optimization
 - 🛠️ Strong in C/C++, Python, embedded, and full-stack
 - 🏅 Multiple hackathon wins, competitive programming, NPTEL certificates
 - 🔍 Open to full-time SDE/embedded/backend/AI roles
