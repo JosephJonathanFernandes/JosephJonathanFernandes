@@ -1,19 +1,21 @@
 <div align="center">
 
 <h2>Joseph Jonathan Fernandes</h2>
+<b>Embedded-first Software Engineer with real automotive production experience, strong systems programming skills,practical full stack and AI/ML foundations.</b>
+
+
 
 <b>Final-year Computer Engineering (AI/ML Honors, CGPA: 9.778)</b><br>
-<b>Embedded Systems | Backend & Full-Stack | AI/ML</b>
+<b>Embedded Systems | Backend & Full-Stack | AI/ML | Open Source Contributor</b>
 
 <i>Visteon automotive embedded intern, HackAura hackathon winner, and builder of real-world, production-quality projects. Seeking full-time SDE roles in embedded, backend, or AI/ML domains.</i>
 
-<a href="mailto:josephfernandes273@gmail.com">
-  <img src="https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
-</a>
+[![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-jonathan-fernandes/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JosephJonathanFernandes)
+[![GitRoll](https://img.shields.io/badge/GitRoll-00C853?style=flat-square&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/JosephJonathanFernandes)
-[![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
+
 
 </div>
 
@@ -56,7 +58,8 @@
 **Looking For**: Full-time SDE roles in embedded systems, backend, or AI/ML.
 
 **Quick Stats**:
-📊 **400+ Commits** | 🌟 **9.778 CGPA** | 🏆 **Top 7/80+ HackIndia** | 💼 **Visteon Intern**
+📊 **400+ Commits** | 🌟 **9.778 CGPA** | 🏆 **Top 7/80+ HackIndia** | 💼 **Visteon Intern** |📦 **10+ Innovative projects** | 💼 **Automotive internship** | 🏆 **HackAura Hackathon winner**
+
 
 ---
 
