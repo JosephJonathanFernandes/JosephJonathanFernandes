@@ -254,11 +254,11 @@ Automated task scheduling with dependency management using graph-based represent
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
