@@ -76,7 +76,7 @@ Software developer with hands-on experience in automotive embedded systems (Vist
 **Quick highlights:**
 - 🏆 Visteon automotive embedded systems intern: tested 7 AUTOSAR modules, achieved 100% branch coverage, identified areas for code optimization
 - 🛠️ Strong in C/C++, Python, embedded, and full-stack
-- 🏅 Multiple hackathon wins, competitive programming, NPTEL certificates
+- 🏅 One hackathon win, multiple competitive programming competition wins, NPTEL certificates
 - 🔍 Open to full-time SDE/embedded/backend/AI roles
 
 ---
@@ -103,7 +103,7 @@ Software developer with hands-on experience in automotive embedded systems (Vist
 **🚀 Key Achievements:**
 - **Unit Testing Mastery**: Achieved 100% test coverage (statements, branches, functions, pairs) for 7 AUTOSAR modules using VectorCAST
 - **MISRA Compliance**: Analyzed 1000+ MISRA/CERT/Static warnings, achieved 99%+ deviation approval rate
-- **Code Quality**: Proposed fixes for 10% of KW warnings in next production code, identified redundant code for optimization
+- **Code Quality**: Proposed fixes for 5% of KW warnings in next production code, identified redundant code for optimization
 - **Customer Delivery**: Completed unit testing for 4 critical files with 100% coverage for customer audit
 - **Team Support**: Created comprehensive documentation and MS Teams chat with important resources to help team members understand Klocwork
 
@@ -242,7 +242,8 @@ Automated task scheduling with dependency management using graph-based represent
 
 ## 🏅 Achievements
 
-- 🥇 Multiple 1st place wins in debates, quizzes, hackathons, and coding competitions
+- 🥇 Multiple 1st place wins in debates, quizzes and coding competitions
+- 🥇 <b>HackAura 2025</b> – 1st Place Winner
 - 🎯 <b>HackIndia 2025</b> – Top 7 team (80+ teams in Goa)
 - 💼 <b>Visteon Corporation</b> – Automotive embedded systems intern
 - 📊 <b>CodeChef:</b> 1025 rating | <b>HackerRank:</b> C, Python, SQL, Java badges
