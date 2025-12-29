@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>Joseph Jonathan Fernandes</h2>
-<b>Embedded-first Software Engineer with real automotive production experience, strong systems programming skills,practical full stack and AI/ML foundations.</b>
+<b>Embedded-first Software Engineer with real automotive production experience, strong systems programming skills,practical full-stack systems and applied AI/ML foundations.</b><br><br>
 
 
 
@@ -11,8 +11,11 @@
 <i>Visteon automotive embedded intern, HackAura hackathon winner, and builder of real-world, production-quality projects. Seeking full-time SDE roles in embedded, backend, or AI/ML domains.</i>
 
 [![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-jonathan-fernandes/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JosephJonathanFernandes)
+
 [![GitRoll](https://img.shields.io/badge/GitRoll-00C853?style=flat-square&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
 
 
@@ -58,7 +61,7 @@
 **Looking For**: Full-time SDE roles in embedded systems, backend, or AI/ML.
 
 **Quick Stats**:
-📊 **400+ Commits** | 🌟 **9.778 CGPA** | 🏆 **Top 7/80+ HackIndia** | 💼 **Visteon Intern** |📦 **10+ Innovative projects** | 💼 **Automotive internship** | 🏆 **HackAura Hackathon winner**
+📊 **400+ Commits** | 🌟 **9.778 CGPA** | 🏆 **Top 7/80+ HackIndia**  |📦 **10+ Innovative projects** | 💼 **Automotive internship at Visteon** | 🏆 **HackAura Hackathon winner**
 
 
 ---
