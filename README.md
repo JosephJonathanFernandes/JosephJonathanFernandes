@@ -60,6 +60,9 @@
 
 ---
 
+
+<details>
+<summary>💼 <b>About Me and Contact Info</b> (click to expand)</summary>
 ## 🚀 About Me
 
 Software developer with hands-on experience in automotive embedded systems (Visteon, 2025), full-stack web apps, and AI/ML. I build reliable, production-quality software from embedded C to modern web platforms.
@@ -79,8 +82,7 @@ Software developer with hands-on experience in automotive embedded systems (Vist
 **GitHub:** [@JosephJonathanFernandes](https://github.com/JosephJonathanFernandes)
 
 ---
-
----
+</details>
 
 
 
