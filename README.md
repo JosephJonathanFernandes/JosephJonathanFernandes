@@ -255,18 +255,31 @@ Automated task scheduling with dependency management using graph-based represent
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
 <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 <br/>
+
 <img src="https://streak-stats.demolab.com?user=JosephJonathanFernandes&theme=tokyonight&hide_border=true" />
+
 <br/>
-![Snake animation](https://raw.githubusercontent.com/JosephJonathanFernandes/JosephJonathanFernandes/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://raw.githubusercontent.com/JosephJonathanFernandes/JosephJonathanFernandes/output/github-contribution-grid-snake-dark.svg" />
+
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=JosephJonathanFernandes&color=blueviolet&style=flat-square&label=Profile+Views"/>
+
 <br/>
+
 <a href="https://wakatime.com/@JJF">
   <img src="https://wakatime.com/badge/user/baa4d2fb-dd8a-4cb7-aeb2-bb26303cd60b.svg"/>
 </a>
+
+</div>
+
 
 </div>
 
