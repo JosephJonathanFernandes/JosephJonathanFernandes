@@ -7,7 +7,10 @@
 
 <i>Visteon automotive embedded intern, HackAura hackathon winner, and builder of real-world, production-quality projects. Seeking full-time SDE roles in embedded, backend, or AI/ML domains.</i>
 
-[![Email](https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
+<a href="mailto:josephfernandes273@gmail.com">
+  <img src="https://img.shields.io/badge/Email-josephfernandes273%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-jonathan-fernandes-86a94b27a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/JosephJonathanFernandes)
 [![GitRoll](https://img.shields.io/badge/GitRoll-Profile-FF6B6B?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
