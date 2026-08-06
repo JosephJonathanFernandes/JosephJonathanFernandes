@@ -18,6 +18,8 @@ I build software that works where it has to — testing production ECU modules a
 
 I'm finishing my final year at GEC Goa and joining Visteon full-time as an SDE. I'm open to conversations about embedded systems, backend engineering, or AI/ML roles.
 
+Portfolio website: https://jjf-eight.vercel.app/
+
 ---
 
 ## Experience
