@@ -1,193 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Joseph%20Jonathan%20Fernandes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20·%20AI%2FML%20·%20Full-Stack&descAlignY=58&descSize=18&descColor=aaaacc&animation=fadeIn" width="100%" />
+# Joseph Jonathan Fernandes
 
-<br/>
+**Software Engineer — Automotive Embedded Systems & AI/ML**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=540&lines=Software+Engineer+%40+Visteon+%F0%9F%9A%97;Embedded+C+%E2%86%92+Real-Time+Systems+%E2%86%92+Applied+AI;GATE+Qualified+%C2%B7+CSE+%2B+DA;HackAura+2025+Winner+%F0%9F%8F%86;Final+Year+%40+GEC+Goa+%C2%B7+CGPA+9.778)](https://github.com/JosephJonathanFernandes)
+B.E. Computer Engineering · AI/ML Honors · GEC Goa · CGPA 9.778
 
-<br/>
-
-[![Email](https://img.shields.io/badge/josephfernandes273%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-jonathan-fernandes/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jjf-eight.vercel.app/)
-[![GitRoll](https://img.shields.io/badge/GitRoll-00C853?style=for-the-badge&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JosephJonathanFernandes&color=A5B4FC&style=flat-square&label=Profile+Views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-jjf--eight.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://jjf-eight.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-josephfernandes273@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josephfernandes273@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseph--jonathan--fernandes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-jonathan-fernandes/)
+&nbsp;
+[![GitRoll](https://img.shields.io/badge/GitRoll-Code_Profile-00C853?style=flat-square&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
 
 </div>
 
 ---
 
-## About
+## Summary
 
-I build software that works **where it has to** — testing production ECU modules at Visteon, real-time disaster detection systems, AI-powered platforms built under hackathon pressure. My background spans embedded C to full-stack web to applied ML, and I take each domain seriously rather than treating it as a checkbox.
+Final-year Computer Engineering student joining **Visteon Corporation as a Software Engineer** after completing an automotive embedded systems internship. Background spans production ECU testing, real-time AI/ML systems, and full-stack development.
 
-Finishing my final year at GEC Goa and joining **Visteon** full-time as an SDE. Open to conversations about embedded systems, backend engineering, or AI/ML.
-
-```
-📍 Margao, Goa, India
-🏛  GEC Goa — B.E. Computer Engineering + AI/ML Honors · CGPA 9.778
-🚗  Joining Visteon Corporation as Software Engineer (SDE)
-🏆  HackAura 2025 — 1st Place winner
-🎓  GATE Qualified — CSE & DA streams
-📚  47 NPTEL courses — Domain Scholar · Superstar · Megastar · Evangelist 
-```
+- Achieved 100% unit-test coverage across 14 AUTOSAR production modules at Visteon using VectorCAST
+- Built a real-time ISL recognition system reaching 98.33% accuracy across 300 signs at 60+ FPS on CPU
+- GATE qualified in both CSE and DA; 47 NPTEL courses completed at top distinction tiers
+- HackAura 2025 — 1st place; HackIndia Spark 3 2025 — Top 7 of 80+ teams
 
 ---
 
 ## Experience
 
-**Software Engineering Intern — Visteon Corporation**
-*July – September 2025 · Panjim,Goa · Automotive Embedded Systems*
+### Software Engineering Intern · Visteon Corporation
+**July – September 2025 · Panjim,Goa · Automotive Embedded Systems**
 
-Joined a 7-person embedded team on **production ECU modules**. Moved from onboarding to owning unit testing deliverables for a customer audit in 8 weeks.
+Embedded in a 7-person team responsible for production-grade AUTOSAR ECU modules. Took ownership of unit-testing deliverables ahead of a customer compliance audit within 8 weeks of onboarding.
 
-- ✅ Achieved **100% branch/statement/function coverage** across 14 AUTOSAR modules using VectorCAST
-- 🔍 Analyzed **100K+ MISRA-C, CERT-C & static warnings** — 99%+ deviation approval rate
-- 🛠 Proposed fixes for **~5% of Klocwork warnings** flagged for next production release
-- 🐍 Wrote **Python automation scripts** for Excel-based warning analysis workflows
-- 📝 Created internal documentation and MS Teams resources adopted by the broader team
+| Metric | Result |
+|---|---|
+| Module coverage achieved | 100% branch / statement / function — 14 AUTOSAR modules |
+| Static analysis processed | 100,000+ MISRA-C, CERT-C, and Klocwork warnings |
+| Deviation approval rate | 99%+ across reviewed warnings |
+| Klocwork fixes proposed | ~5% of flagged issues targeted for next release |
 
-`VectorCAST` `Klocwork` `GitLab` `JIRA` `AUTOSAR` `MISRA-C` `CERT-C` `WSL2`
+**Key contributions:**
+- Automated Excel-based warning analysis workflows with Python, eliminating manual triaging time
+- Authored internal documentation and MS Teams resources adopted by the full embedded team
 
----
-
-## Projects
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔭 [Exoscope](https://nasaexoscope.vercel.app/) · NASA Space Apps
-
-AI-powered **exoplanet detection** platform with a RAG-based Q&A chatbot. Built at NASA Space Apps Challenge.
-
-`React` `TypeScript` `FastAPI` `Groq API`
-
-Backend + RAG integration · Team of 4
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 [CrowdSense](https://github.com/JosephJonathanFernandes/CrowdSense)
-
-**Real-time disaster detection** from social media using NLP and anomaly detection with live SMS alerts.
-
-`Python` `Flask` `spaCy` `Twilio` `SQLite`
-
-Full-stack → backend focus · Team of 4
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🧠 [TaskExpert](https://github.com/JosephJonathanFernandes/HackIndia-Spark-3-2025-WizCoders) · HackIndia
-
-**Knowledge graph** task scheduler with dependency management using symbolic AI (MeTTa/Hyperon).
-
-`Python` `MeTTa` `Hyperon` `AtomSpace`
-
-MeTTa developer · Team of 4
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 [AstroDesk](https://github.com/JosephJonathanFernandes/astrodesk) · Coders Club 2025
-
-Real-time **NEO tracking**, 3D orbital visualization & multi-agent AI story generation. [Live →](https://astrodesk.onrender.com/)
-
-`Python` `Flask` `Groq` `Skyfield` `NASA APIs`
-
-Core full-stack developer · Team of 4
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ♻️ [EcoSort-AI](https://github.com/JosephJonathanFernandes/EcoSort-AI) · Global AI Buildathon
-
-**Waste classification** into 6 categories with a gamified eco-points reward system. PyTorch vision model.
-
-`Python` `Flask` `PyTorch`
-
-Core full-stack developer · Team of 4
-
-</td>
-<td align="center" width="50%">
-
-### 🤟 Vāksetu · Final Year Project
-
-**Real-time Indian Sign Language** recognition — 300 signs, 98.33% accuracy, 60+ FPS on CPU inference.
-
-`Python` `PyTorch` `ONNX Runtime` `MediaPipe` `spaCy`
-
-Solo developer · Project viva stage
-
-</td>
-</tr>
-</table>
-
-> **Also:** [Advanced Port Scanner](https://github.com/JosephJonathanFernandes/advanced-port-scanner) — Multi-threaded network scanner with GUI, banner grabbing & export `Python` `Tkinter`
+**Tools & standards:** VectorCAST · Klocwork · GitLab · JIRA · AUTOSAR · MISRA-C · CERT-C · WSL2 · Python
 
 ---
 
-## Tech Stack
+## Selected Projects
 
-**Embedded & Systems**
+| Project | Impact | Stack |
+|---|---|---|
+| **[Vāksetu](https://github.com/JosephJonathanFernandes)** — Real-time ISL Recognition *(Final Year)* | 98.33% accuracy · 300 sign classes · 60+ FPS CPU inference · ONNX deployment | Python, PyTorch, ONNX Runtime, MediaPipe, spaCy |
+| **[Exoscope](https://nasaexoscope.vercel.app/)** — NASA Space Apps Challenge | AI exoplanet detection + RAG chatbot; Team of 4 | React, TypeScript, FastAPI, Groq API |
+| **[CrowdSense](https://github.com/JosephJonathanFernandes/CrowdSense)** — Disaster Detection | Real-time NLP-based social media monitoring with SMS alert pipeline | Python, Flask, spaCy, Twilio, SQLite |
+| **[AstroDesk](https://github.com/JosephJonathanFernandes/astrodesk)** — Coders Club 2025 · [Live](https://astrodesk.onrender.com/) | Real-time NEO tracking · 3D orbital visualization · multi-agent AI story generation | Python, Flask, Groq, Skyfield, NASA APIs |
+| **[TaskExpert](https://github.com/JosephJonathanFernandes/HackIndia-Spark-3-2025-WizCoders)** — HackIndia Spark 3 | Knowledge graph task scheduler with dependency resolution using symbolic AI (MeTTa) | Python, MeTTa, Hyperon, AtomSpace |
+| **[EcoSort-AI](https://github.com/JosephJonathanFernandes/EcoSort-AI)** — Global AI Buildathon | 6-class waste classification with gamified eco-points reward system | Python, Flask, PyTorch |
+| **[Advanced Port Scanner](https://github.com/JosephJonathanFernandes/advanced-port-scanner)** | Multi-threaded network scanner with GUI, banner grabbing, and export | Python, Tkinter, Matplotlib |
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR-003087?style=flat-square&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MISRA-C](https://img.shields.io/badge/MISRA--C-E74C3C?style=flat-square)
-![VectorCAST](https://img.shields.io/badge/VectorCAST-0078D4?style=flat-square)
-![Klocwork](https://img.shields.io/badge/Klocwork-FF6B35?style=flat-square)
+---
 
-**Backend & Full-Stack**
+## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| Domain | Technologies |
+|---|---|
+| **Embedded & Systems** | C · C++ · Embedded C · AUTOSAR · MISRA-C · CERT-C · CAN · UDS · VectorCAST · Klocwork · Linux |
+| **Backend & Web** | Python · Flask · FastAPI · React · TypeScript · SQL · REST APIs |
+| **AI / ML** | PyTorch · ONNX Runtime · MediaPipe · spaCy · Groq API · RAG Pipelines · Streamlit |
+| **Tooling & Practices** | Git · GitLab · GitHub Actions · JIRA · WSL2 · Unit Testing · Static Analysis · Agile/Scrum |
 
-**AI / ML**
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square)
+## Education
 
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=windows&logoColor=white)
+**B.E. Computer Engineering** — Goa College of Engineering, Farmagudi, Ponda, Goa
+- Specialization: AI/ML Honors
+- CGPA: **9.778** | Final Year (2022–2026)
+- GATE Qualified: **CSE** and **DA** streams
 
 ---
 
 ## Achievements
 
-| | Achievement |
-|:---:|---|
-| 🥇 | **HackAura 2025** — 1st Place |
-| 🎯 | **HackIndia Spark 3 2025** — Top 7 of 80+ teams (Goa region) |
-| 📊 | **GATE Qualified** — CSE and DA streams |
-| 📚 | **NPTEL** — 47 courses · Domain Scholar · Superstar · Megastar · Evangelist |
-| 🎤 | **Technix Quiz** — Co-organized state-level technical quiz (2023,2025 & 2026) |
-| 🏅 | Multiple 1st-place wins in debates, quizzes & coding events at inter-college level |
-| 💻 | **CodeChef** 1025 rating · **HackerRank** — C, Python, SQL, Java badges |
+| Year | Achievement |
+|---|---|
+| 2025 | **HackAura** — 1st place |
+| 2025 | **HackIndia Spark 3** — Top 7 of 80+ teams, Goa region |
+| 2025 & 2026 | **GATE** — Qualified in Computer Science (CSE) and Data Analytics (DA) |
+| Ongoing | **NPTEL** — 47 courses; Domain Scholar (Programming & Data Science), Superstar, Megastar, Evangelist |
+| 2023, 2025,2026 | **Technix Quiz** — Co-organized state-level technical quiz |
+| Multiple | 1st-place and 2nd-place finishes in inter-college debates, quizzes, and coding competitions |
+| 2023-2025 | **CodeChef** 1025 · **HackerRank** — C, Python, SQL, Java badges |
 
 ---
 
@@ -195,13 +103,13 @@ Solo developer · Project viva stage
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=c9d1d9&ring_color=A5B4FC" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JosephJonathanFernandes&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=333333&ring_color=111111" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JosephJonathanFernandes&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=JosephJonathanFernandes&theme=tokyonight&hide_border=true&background=0d1117&stroke=A5B4FC&ring=A5B4FC&fire=A5B4FC&currStreakNum=ffffff&sideNums=A5B4FC&currStreakLabel=A5B4FC&sideLabels=A5B4FC&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=JosephJonathanFernandes&hide_border=true&background=ffffff&stroke=dddddd&ring=111111&fire=111111&currStreakNum=111111&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=888888" />
 
 <br/><br/>
 
@@ -212,7 +120,5 @@ Solo developer · Project viva stage
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%" />
-
+<sub>Open to discussions about embedded systems, backend engineering, or AI/ML — <a href="mailto:josephfernandes273@gmail.com">josephfernandes273@gmail.com</a></sub>
 </div>
