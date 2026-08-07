@@ -28,12 +28,12 @@ I build software that works **where it has to** — testing production ECU modul
 Finishing my final year at GEC Goa and joining **Visteon** full-time as an SDE. Open to conversations about embedded systems, backend engineering, or AI/ML.
 
 ```
-📍 Panjim, Goa, India
+📍 Margao, Goa, India
 🏛  GEC Goa — B.E. Computer Engineering + AI/ML Honors · CGPA 9.778
 🚗  Joining Visteon Corporation as Software Engineer (SDE)
 🏆  HackAura 2025 — 1st Place winner
 🎓  GATE Qualified — CSE & DA streams
-📚  47 NPTEL courses — Domain Scholar · Star · Megastar · Evangelist
+📚  47 NPTEL courses — Domain Scholar · Superstar · Megastar · Evangelist 
 ```
 
 ---
@@ -184,8 +184,8 @@ Solo developer · Project viva stage
 | 🥇 | **HackAura 2025** — 1st Place |
 | 🎯 | **HackIndia Spark 3 2025** — Top 7 of 80+ teams (Goa region) |
 | 📊 | **GATE Qualified** — CSE and DA streams |
-| 📚 | **NPTEL** — 47 courses · Domain Scholar · Star · Megastar · Evangelist |
-| 🎤 | **Technix Quiz** — Co-organized state-level technical quiz (2023 & 2025) |
+| 📚 | **NPTEL** — 47 courses · Domain Scholar · Superstar · Megastar · Evangelist |
+| 🎤 | **Technix Quiz** — Co-organized state-level technical quiz (2023,2025 & 2026) |
 | 🏅 | Multiple 1st-place wins in debates, quizzes & coding events at inter-college level |
 | 💻 | **CodeChef** 1025 rating · **HackerRank** — C, Python, SQL, Java badges |
 
