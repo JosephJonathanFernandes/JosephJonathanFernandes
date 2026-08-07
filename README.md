@@ -41,7 +41,7 @@ Finishing my final year at GEC Goa and joining **Visteon** full-time as an SDE. 
 ## Experience
 
 **Software Engineering Intern — Visteon Corporation**
-*July – September 2025 · Pune · Automotive Embedded Systems*
+*July – September 2025 · Panjim,Goa · Automotive Embedded Systems*
 
 Joined a 7-person embedded team on **production ECU modules**. Moved from onboarding to owning unit testing deliverables for a customer audit in 8 weeks.
 
