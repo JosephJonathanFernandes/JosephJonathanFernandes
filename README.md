@@ -4,7 +4,7 @@
 
 **Software Engineer — Automotive Embedded Systems & AI/ML**
 
-B.E. Computer Engineering · AI/ML Honors · GEC Goa · CGPA 9.778
+B.E. Computer Engineering · AI/ML Honors · GEC Goa · CGPA 9.74
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jjf--eight.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://jjf-eight.vercel.app/)
 &nbsp;
