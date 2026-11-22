@@ -13,6 +13,7 @@ B.E. Computer Engineering · AI/ML Honors · GEC Goa · CGPA 9.74
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joseph--jonathan--fernandes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-jonathan-fernandes/)
 &nbsp;
 [![GitRoll](https://img.shields.io/badge/GitRoll-Code_Profile-00C853?style=flat-square&logo=git&logoColor=white)](https://gitroll.io/profile/u4C3j8q7Z5Dfo3CM3DGcEeo9A8Fn2)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@josephfernandes273)
 
 </div>
 
